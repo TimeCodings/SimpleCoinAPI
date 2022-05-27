@@ -1,0 +1,13 @@
+#Hi, hier kannst du einige Einstellungen treffen! Du kannst in dieser Datei zum Beispielt
+#die Namen beider Coins ändern!
+
+#Der AnzeigeName für die Gems
+GemsAnzeigeName: "Gems"
+#Der AnzeigeName für die "Untradable"-Gems
+UntradableGemsAnzeigeName: "Untradable-Gems"
+#Falls du StartGems haben willst (für neue Spieler)
+StartGems: 0
+#Falls du UntradableStartGems haben willst (für neue Spieler)
+StartUntradableGems: 0
+#AdminPermission
+AdminPermission: coinapi.admin

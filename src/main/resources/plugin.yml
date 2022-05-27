@@ -1,0 +1,12 @@
+name: CoinAPI
+version: '${project.version}'
+main: dev.timecoding.coinapi.CoinMain
+api-version: 1.18
+authors: [ TimeCoding ]
+description: CoinAPI for LePoison
+website: timecoding.de
+
+commands:
+  gems:
+    description: Öffnet das GemMenü!
+    aliases: gem
